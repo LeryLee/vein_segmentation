@@ -18,5 +18,7 @@ git clone https://github.com/LeryLee/vein_segmentation
 
 # Acknowledgement
 [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+
 [PointRend](https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend)
+
 [CE-Net](https://github.com/Guzaiwang/CE-Net)
